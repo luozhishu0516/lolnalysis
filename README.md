@@ -28,10 +28,11 @@ The Python script extracts match data from Riot API, transforms it into a DataFr
 Variables & Setup
 
 <img width="823" height="132" alt="image" src="https://github.com/user-attachments/assets/3fd5aeca-5bbe-467c-989b-d973b1f1579a" />
+
 3️⃣ Save Data Locally 💾
 
 <img width="1127" height="1236" alt="image" src="https://github.com/user-attachments/assets/39f63ab6-f637-4b9e-b98b-5cac48213f39" />
-Saving Data Locally 💾
+
 
 <img width="728" height="363" alt="image" src="https://github.com/user-attachments/assets/e79b8f97-8acc-495f-b0c1-b8d43fdb8cb1" />
 
