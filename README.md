@@ -100,68 +100,7 @@ Power BI: Interactive dashboards and KPI visualization
 
 I created a detailed document summarizing my ranked performance between July 24, 2025 – September 4, 2025, analyzing 92 matches.
 
-Key Metrics
-Metric	Value	Insight
-Overall Win Rate	48.9%	Very close to a positive win rate. Small improvements can push this over 50%.
-Most Played Champion	Sylas (36 games)	Sylas makes up 39% of played champions—your main pick.
-Highest Win Rate Champion (Min. 5 games)	Aurora (80%)	Consistently excellent performance.
-Highest Avg KDA Champion (Min. 5 games)	Sylas (TOP) - 13/1/8	Shows your high ceiling on this champion.
-Overall Avg KDA	~3.21	Solid contribution to kills over deaths.
-Overall Avg CSPM	~5.54	Key area for improvement; target 6.5–7.0+ for laners.
-Overall Avg DPM	~735	Healthy damage output; improving farm will increase this.
-Detailed Champion Analysis
-
-Sylas (Main)
-
-Games: 36 | Win Rate: 52.8% | Avg KDA: 3.71
-
-Strong aggressive playstyle; some volatility in deaths. Focus on consistency.
-
-Standout Performers
-
-Aurora: 80% Win Rate (5 games) → Potential pocket pick.
-
-Naafiri: 60% Win Rate (5 games) → Excels in skirmish-heavy champions.
-
-Champions to Reconsider
-
-Caitlyn: 20% Win Rate (5 games) → Low ADC effectiveness.
-
-Lee Sin: 25% Win Rate (4 games) → Weak jungle performance.
-
-Role Performance Summary
-
-MIDDLE: Most played, mixed results, boosted by Sylas & Aurora.
-
-TOP: Volatile performance; decision-making can be improved.
-
-JUNGLE: Weakest role; low farm and gold accumulation.
-
-BOTTOM (ADC): Struggling; low win rates suggest comfort issues.
-
-UTILITY (Support): Small sample; vision often good, win rate limited by tough games.
-
-Actionable Insights
-
-Prioritize Farming (CS per Minute)
-
-Current CSPM: ~5.54 → Target 6.5–7.0+
-
-Practice last-hitting in custom games; focus on mid-game wave management.
-
-Diversify Champion Pool & Role Focus
-
-Consider playing Aurora more often; reduce low-win-rate champions.
-
-Focus on 2–3 roles to master mechanics.
-
-Limit “Hard Int” Games
-
-Adjust strategy if you die early. Prioritize safe farming over risky trades.
-
-Improve Jungle Pathing Efficiency
-
-Watch jungle clear guides; optimize camp sequencing and counter-ganking.
+Can ve viewed in the pdf documents
 
 Conclusion
 
